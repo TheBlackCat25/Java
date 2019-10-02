@@ -9,8 +9,8 @@ public class Ex1ParSenar {
 
         if (num%2==0) {
             System.out.println("Es par");
-        }
-    }   else {
+        } else {
         System.out.println("Es senar");
+        }
     }
 }

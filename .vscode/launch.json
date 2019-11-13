@@ -1,0 +1,74 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - paraulesencadenades",
+            "request": "launch",
+            "mainClass": "paraulesencadenades"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - repas",
+            "request": "launch",
+            "mainClass": "repas"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex5AsknumXPosNegParSen",
+            "request": "launch",
+            "mainClass": "Ex5AsknumXPosNegParSen"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex4numinvertit",
+            "request": "launch",
+            "mainClass": "Ex4numinvertit"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex1factorial",
+            "request": "launch",
+            "mainClass": "Ex1factorial"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - numinvertit",
+            "request": "launch",
+            "mainClass": "numinvertit"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - javastringname",
+            "request": "launch",
+            "mainClass": "javastringname"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - javastringname",
+            "request": "launch",
+            "mainClass": "javastringname",
+            "projectName": "Projectes_8fa845e5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaIntroduccion",
+            "request": "launch",
+            "mainClass": "JavaIntroduccion",
+            "projectName": "Projectes_8fa845e5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaIntroducción",
+            "request": "launch",
+            "mainClass": "JavaIntroducción",
+            "projectName": "Projectes_8fa845e5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - numinvertit",
+            "request": "launch",
+            "mainClass": "numinvertit",
+            "projectName": "Projectes_8fa845e5"
+        }
+    ]
+}

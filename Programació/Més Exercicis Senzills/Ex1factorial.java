@@ -1,7 +1,7 @@
 /**
  * factorial
  */
-public class factorial {
+public class Ex1factorial {
 
     public static void main(String[] args) {
         int res = 1;

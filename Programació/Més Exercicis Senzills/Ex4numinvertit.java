@@ -1,7 +1,7 @@
 /**
  * numinvertit
  */
-public class numinvertit {
+public class Ex4numinvertit {
 
     public static void main(String[] args) {
 

@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - crearparaules",
+            "request": "launch",
+            "mainClass": "crearparaules",
+            "projectName": "Projectes_fbe1d0b"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - paraulesencadenades",
             "request": "launch",
             "mainClass": "paraulesencadenades"
